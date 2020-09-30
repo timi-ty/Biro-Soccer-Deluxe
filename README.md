@@ -1,5 +1,5 @@
 # Biro-Soccer-Deluxe
-A modern spin on the Nigerian classic Biro-Soccer as a mobile game.
+A modern spin on the classic Biro-Soccer as a mobile game.
 
 This project is incomplete. Anyone interested in helping complete the project design, concept, modelling, coding or sound 
 can contact me here timilehin.ty@gmail.com. 
